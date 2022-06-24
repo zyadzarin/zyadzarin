@@ -12,6 +12,8 @@
 - 💻 I love learning something new! Currently learning about:
   * ⚙ Machine Learning
   * 🤖 Cloud Computing
+  * ⚡ Computer Vision
+  * 🔥 Deep Learning
 
 <hr>
 
