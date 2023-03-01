@@ -4,7 +4,7 @@
 
 </h1>
 
-### I'm a second-year AI student at University Malaya!
+### I'm a third-year AI student at University Malaya!
 
 <h3>👀 About me: </h3>
 
