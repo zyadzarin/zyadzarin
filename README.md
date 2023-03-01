@@ -8,7 +8,7 @@
 
 <h3>👀 About me: </h3>
 
-- 🏢 I'm currently looking for an internship, so I'll be inactive here.
+- 🏢 Going into my final year project
 - 💻 I love learning something new! Currently learning about:
   * ⚙ Machine Learning
   * 🤖 Cloud Computing
